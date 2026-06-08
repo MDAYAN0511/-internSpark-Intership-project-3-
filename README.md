@@ -1,6 +1,6 @@
 # -internSpark-Intership-project-3-
 Instagram data analysis
-# Instagram Engagement Analysis 
+# Instagram Engagement Analysis for Alfido Tech
 
 ## Project Overview
 
@@ -105,6 +105,6 @@ Posts should be scheduled during the highest-engagement hours identified in the 
 
 ## Conclusion
 
-This analysis provides data-driven insights into Instagram engagement behavior. By implementing the recommended posting schedule and engagement strategies,can improve audience interaction, increase visibility, and support long-term follower growth.
+This analysis provides data-driven insights into Instagram engagement behavior. By implementing the recommended posting schedule and engagement strategies,Alfido Tech can improve audience interaction, increase visibility, and support long-term follower growth.
 
 
